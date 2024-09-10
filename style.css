@@ -1,3 +1,25 @@
 body {
      background-color: aqua;
+     color: black;
+     font-family: 'Dancing Script';
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 200px;
+     margin: 0;
+
+}
+button {
+  background-color: blueviolet;
+  color: black;
+  font-family: 'Dancing Script';
+
+}
+
+.passo {
+ display: none ;
+}
+
+.passo .ativo {
+     display: block;
 }
